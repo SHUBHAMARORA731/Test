@@ -1,7 +1,7 @@
 {
   "name": "Start on Heroku: Node.js",
   "description": "A barebones Node.js app using Express 4",
-  "repository": "https://git.heroku.com/infinite-savannah-99115",
+  "repository": "https://github.com/SHUBHAMARORA731/deploy-Node-web-app-to-heroku",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
